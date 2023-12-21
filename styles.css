@@ -27,11 +27,11 @@
 }
 
 .box:nth-child(odd)::before {
-    content: "• Happy Birthday •"
+    content: "• Happy Semprotulation, Bening •"
 }
 
 .box:nth-child(even)::before {
-    content: "Keep Smiling";
+    content: "Semangat Revisi";
     filter: hue-rotate(180deg);
 }
 
